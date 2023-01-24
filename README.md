@@ -11,7 +11,8 @@ most potential leads, also known as ‘Hot Leads’.
 
 ## Steps Followed
 1) Data loading and preparation: 
-   We loaded the data into a Jupyter notebook and performed missing value and outlier treatment for all columns. We also dropped columns that had more than 45% missing    values.
+                                 We loaded the data into a Jupyter notebook and performed missing value and outlier treatment for all columns. 
+                                 We also dropped columns that had more than 45% missing values.
 
 2) Exploratory Data Analysis (EDA): We conducted EDA on each categorical column to
    visualize data imbalance and dropped high data imbalanced columns.
