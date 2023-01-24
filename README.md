@@ -49,4 +49,4 @@ most potential leads, also known as ‘Hot Leads’.
 3) Lead_Score_Case_Study_ppt.pdf : Final Presentation
 4) Leads.csv : Data worked on
 5) Leads Data Dictionary.xlsx : Data Dictionary
-6) Summary_report.pdf : Summary on what's done in the entire py file
+6) Summary_report_Lead_Score_Case_Study.pdf : Summary on what's done in the entire py file
