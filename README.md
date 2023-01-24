@@ -39,7 +39,7 @@ most potential leads, also known as ‘Hot Leads’.
 
 9) Model testing: We scaled the test data and performed prediction of lead conversion.
    We evaluated the prediction on test data by accuracy, specificity and sensitivity
-   matrix, and we found accuracy -91.1%, precision – 85.6% and recall – 91.9%.
+   matrix, and we found accuracy of 91.1%, precision of 85.6% and recall of 91.9%.
 
 10) Lead Score Calculation: We created lead conversion score = (conversion probability * 100) to give a score between 0 to 100 where higher the value means the lead is     “hot” and there is high possibility that the lead can be converted
 
@@ -47,6 +47,4 @@ most potential leads, also known as ‘Hot Leads’.
 1) Assignment Subjective Questions_Answer.pdf : Some subjective questions answered
 2) Lead_Score_Case_Study_Final.ipynb : The python file showing coding and data analysis
 3) Lead_Score_Case_Study_ppt.pdf : Final Presentation
-4) Leads.csv : Data worked on
-5) Leads Data Dictionary.xlsx : Data Dictionary
-6) Summary_report_Lead_Score_Case_Study.pdf : Summary on what's done in the entire py file
+4) Summary_report_Lead_Score_Case_Study.pdf : Summary on what's done in the entire py file
