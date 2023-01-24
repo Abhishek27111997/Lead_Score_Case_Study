@@ -45,8 +45,8 @@ most potential leads, also known as ‘Hot Leads’.
 
 ## Details of files given
 1) Assignment Subjective Questions_Answer.pdf : Some subjective questions answered
-2) Lead Score Case Study Final.ipynb : The python file showing coding and data analysis
-3) Lead Score Case Study.pdf : Final Presentation
+2) Lead_Score_Case_Study_Final.ipynb : The python file showing coding and data analysis
+3) Lead_Score_Case_Study_ppt.pdf : Final Presentation
 4) Leads.csv : Data worked on
 5) Leads Data Dictionary.xlsx : Data Dictionary
 6) Summary_report.pdf : Summary on what's done in the entire py file
