@@ -44,9 +44,9 @@ most potential leads, also known as ‘Hot Leads’.
 10) Lead Score Calculation: We created lead conversion score = (conversion probability * 100) to give a score between 0 to 100 where higher the value means the lead is     “hot” and there is high possibility that the lead can be converted
 
 ## Details of files given
-1) Lead Score Case Study Final .ipynb : The python file showing coding and data analysis
-2) Assignment Subjective Questions Answer.pdf : Some subjective questions answered
+1) Assignment Subjective Questions_Answer.pdf : Some subjective questions answered
+2) Lead Score Case Study Final.ipynb : The python file showing coding and data analysis
 3) Lead Score Case Study.pdf : Final Presentation
 4) Leads.csv : Data worked on
 5) Leads Data Dictionary.xlsx : Data Dictionary
-6) Summary.pdf : Summary on what's done in the entire py file
+6) Summary_report.pdf : Summary on what's done in the entire py file
